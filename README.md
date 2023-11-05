@@ -1,4 +1,4 @@
-# Intent-Based-Network-Management-Automation
+# Intent-Based Network Management Automation
 This is the Intent-Based Network Management Automation in 5G Networks.
 
 ![github image](https://github.com/IBN-based-5G-Management-Automation/ibnbased5gmanagement/assets/47199564/5b35ba69-562c-4b36-854d-9645c659ecda)
