@@ -1,0 +1,17 @@
+Open5gs setting
+1. sample.yaml file setting
+2. Adding USIM informaiton
+3. Setting up TUN device and running Open5gs
+
+srsRAN setting
+4. Installing srsRAN configure files
+5. Modify enb.conf file
+6. Modify rr.conf file
+
+srsUE setting
+7. Modify ue.conf file
+
+Running Open5gs + srsRAN + srsUE
+8. Run Open5gs 5gc file and srsRAN enb.conf file
+9. Run srsUE file
+10. check the connection between Open5gs + srsRAN and srsUE
